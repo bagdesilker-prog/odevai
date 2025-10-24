@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Torex Chat",
+  "description": "A modern, feature-rich chat application with a unique AI personality. It supports text, image, and live voice conversations with advanced features like image generation and text-to-speech.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
